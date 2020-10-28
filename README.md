@@ -1,2 +1,3 @@
 # Sissejuhatus-erialasse
 Juhhei
+My firs commit...
